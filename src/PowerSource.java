@@ -1,0 +1,3 @@
+interface PowerSource {
+    void supplyPower();
+}
