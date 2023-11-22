@@ -5,7 +5,8 @@ The project is an online store specializing in the sale of laptops from three br
 In this project we used 6 patterns. 
 # Singleton 
 pattern was represented as a database in our project. 
-# Payment was integrated with the use of strategy pattern, where we have 2 strategies. 
+# Strategy pattern
+was integrated as a payment, where we have 2 strategies. 
 First is payment by credit card and second is by paypal. 
 # Decorator pattern 
 was used to add additional RAM and SSD storage. 
